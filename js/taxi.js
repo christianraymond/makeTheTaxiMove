@@ -1,7 +1,6 @@
 function Taxi(){
 
     var currentLocationCounter = 1;
-
     function findLocation(counter){
         switch(counter){
             case 1:
